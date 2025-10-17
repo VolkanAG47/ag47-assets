@@ -1,34 +1,17 @@
 {
   "name": "AG47",
   "symbol": "AG47",
-  "description": "AG47 is the digital reflection of silver’s timeless value — a modern, community-driven store-of-value on Solana. With a fixed supply of 1,000,000,000 tokens, AG47 merges the elemental stability of silver with blockchain precision to create a long-term, decentralized store of value.",
-  "image": "https://raw.githubusercontent.com/VolkanAG47/ag47-assets/main/AG47.png",
+  "description": "Forged in Silver. Built on Solana. ⚙️ Digital Silver Reborn.",
+  "image": "https://raw.githubusercontent.com/<kullanici-adin>/ag47/main/logo.png",
   "attributes": [
-    {
-      "trait_type": "Category",
-      "value": "Digital Silver"
-    },
-    {
-      "trait_type": "Supply",
-      "value": "1,000,000,000"
-    },
-    {
-      "trait_type": "Network",
-      "value": "Solana Mainnet"
-    }
+    { "trait_type": "Category", "value": "Meme Token" },
+    { "trait_type": "Network", "value": "Solana Mainnet" },
+    { "trait_type": "Launch", "value": "October 2025" }
   ],
-  "properties": {
-    "creators": [
-      {
-        "address": "AJ8qg2YeHwsrqt8LRY4C9EFXoVnN6EWgZA1s8wiQoztZ",
-        "share": 100
-      }
-    ],
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/VolkanAG47/ag47-assets/main/AG47.png",
-        "type": "image/png"
-      }
-    ]
-  }
+  "extensions": {
+    "website": "https://ag47.xyz",
+    "twitter": "https://x.com/AG47Token",
+    "pumpfun": "https://pump.fun/coin/Fotspfhp2sJ4HQ8Z5Jv6o4nZqMsDPq1urvQVB2coyjzc"
+  },
+  "tags": ["memecoin", "digital silver", "solana", "ag47"]
 }
